@@ -1,13 +1,13 @@
 ```
-└── LANGUAGES           └── FRAMEWORKS             ├── DATA STORES              └── TOOLS
-    ├── HTML                ├── Rails              │   └── MongoDB                  ├── Yarn/Npm
-    ├── SCSS                ├── React              │       └── Mongoose             ├── Vite
-    │   └── CSS             │   ├── Router         └── PROCESSES                    ├── Docker
-    ├── Typescript          │   └── Query              ├── Agile                    ├── Kubernetes
-    │   └── Javascript      ├── Redux                  │   └── Scrum                ├── Nginx
-    ├── Bash                ├── Node.js                ├── Code Reviews             ├── GitHub
-    └── Ruby                │   └── Express            ├── Refactoring              │   └── Actions
-                            ├── Playwright             ├── Testing                  └── GitLab
-                            ├── Vitest                 ├── CI/CD                        └── CI/CD
+└── LANGUAGES           └── FRAMEWORKS             ├── DATA STORES             └── TOOLS
+    ├── Ruby                ├── Rails              │   └── MongoDB                 ├── Yarn/Npm
+    ├── Typescript          ├── React              │       └── Mongoose            ├── Vite
+    │   └── Javascript      │   ├── Router         └── PROCESSES                   ├── Docker
+    ├── SCSS                │   └── Query              ├── Agile                   ├── Kubernetes
+    │   └── CSS             ├── Redux                  │   └── Scrum               ├── Nginx
+    ├── HTML                ├── Node.js                ├── Code Reviews            ├── GitHub
+    └── Bash                │   └── Express            ├── Refactoring             │   └── Actions
+                            ├── Playwright             ├── Testing                 └── GitLab
+                            ├── Vitest                 ├── CI/CD                       └── CI/CD
                             └── Jest                   └── Git
 ```
