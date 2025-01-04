@@ -1,22 +1,13 @@
 ```
-.                              .                                .
-├── LANGUAGES                  ├── DATA STORES                  └── TOOLS
-│   ├── HTML                   │   └── MongoDB                      ├── Yarn/Npm
-│   ├── SCSS                   │       └── Mongoose                 ├── Vite
-│   │   └── CSS                └── PROCESSES                        ├── Docker
-│   ├── Typescript                  ├── Agile                       ├── Kubernetes
-│   │   └── Javascript              │   └── Scrum                   ├── Nginx
-│   ├── Bash                        ├── Code Reviews                ├── GitHub
-│   └── Ruby                        ├── Refactoring                 │   └── Actions
-└── FRAMEWORKS                      ├── Testing                     └── GitLab
-    ├── Rails                       ├── CI/CD                           └── CI/CD
-    ├── React                       └── Git
-    │   ├── Router
-    │   └── Query
-    ├── Redux
-    ├── Node.js
-    │   └── Express
-    ├── Playwright
-    ├── Vitest
-    └── Jest
+└── LANGUAGES           └── FRAMEWORKS             ├── DATA STORES              └── TOOLS
+    ├── HTML                ├── Rails              │   └── MongoDB                  ├── Yarn/Npm
+    ├── SCSS                ├── React              │       └── Mongoose             ├── Vite
+    │   └── CSS             │   ├── Router         └── PROCESSES                    ├── Docker
+    ├── Typescript          │   └── Query              ├── Agile                    ├── Kubernetes
+    │   └── Javascript      ├── Redux                  │   └── Scrum                ├── Nginx
+    ├── Bash                ├── Node.js                ├── Code Reviews             ├── GitHub
+    └── Ruby                │   └── Express            ├── Refactoring              │   └── Actions
+                            ├── Playwright             ├── Testing                  └── GitLab
+                            ├── Vitest                 ├── CI/CD                        └── CI/CD
+                            └── Jest                   └── Git
 ```
